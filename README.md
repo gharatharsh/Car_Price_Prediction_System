@@ -4,10 +4,10 @@
 A user-friendly desktop application built with Python and Tkinter that helps users find the perfect new or used car based on their budget. The application loads and combines data from multiple CSV files, provides smart recommendations, and generates a comprehensive, multi-tab analytics dashboard to visualize the car market.
 
 
-
+("C:\Users\Harsh\Downloads\ML project\Sceenshorts\sceenshort002.png")
 
 ---
-("C:\Users\Harsh\Downloads\ML project\Sceenshorts\sceenshort002.png")
+
 ## ✨ Key Features
 
 *   **Dual Data Source:** Loads and merges car data from two separate CSV files (`car details v3.csv` and `v4.csv`) for a more comprehensive dataset.
