@@ -3,7 +3,8 @@
 
 A user-friendly desktop application built with Python and Tkinter that helps users find the perfect new or used car based on their budget. The application loads and combines data from multiple CSV files, provides smart recommendations, and generates a comprehensive, multi-tab analytics dashboard to visualize the car market.
 
-![App Screenshot](screenshots/app_screenshot.png)
+![App Screenshot]("C:\Users\Harsh\Downloads\ML project\Sceenshorts\sceenshort002.png")
+
 
 ---
 
@@ -50,7 +51,8 @@ Open your command prompt or terminal and navigate to the project directory.
 
 A user-friendly desktop application built with Python and Tkinter that helps users find the perfect new or used car based on their budget. The application loads and combines data from multiple CSV files, provides smart recommendations, and generates a comprehensive, multi-tab analytics dashboard to visualize the car market.
 
-![App Screenshot](screenshots/app_screenshot002.png)
+![App Screenshot]("C:\Users\Harsh\Downloads\ML project\Sceenshorts\sceenshort02.png")
+![App Screenshot]("C:\Users\Harsh\Downloads\ML project\Sceenshorts\sceenshort03.png")
 
 ---
 
@@ -98,9 +100,13 @@ cd path\to\your\ML project
 
 
 📁 ML project/
-   ├── 📄 car_gui_app.py         # The main application script
-   ├── 📄 car details v4.csv     # Main data file
-   └── 📄 Car details v3.csv     # Secondary data file
+   ├── 📄 car_gui_app.py
+   ├── 📄 car details v4.csv
+   ├── 📄 Car details v3.csv
+   ├── 📄 README.md
+   └── 📁 screenshots/
+       └── 📄 screenshot.png  
+
 
 
 
