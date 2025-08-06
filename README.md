@@ -97,12 +97,12 @@ Open your command prompt or terminal and navigate to the project directory.
 cd path\to\your\ML project
 
 
-'''
 📁 ML project/
    ├── 📄 car_gui_app.py         # The main application script
    ├── 📄 car details v4.csv     # Main data file
    └── 📄 Car details v3.csv     # Secondary data file
-'''
+
+
 
 
 
