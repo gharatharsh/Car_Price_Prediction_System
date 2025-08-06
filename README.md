@@ -50,7 +50,7 @@ Open your command prompt or terminal and navigate to the project directory.
 
 A user-friendly desktop application built with Python and Tkinter that helps users find the perfect new or used car based on their budget. The application loads and combines data from multiple CSV files, provides smart recommendations, and generates a comprehensive, multi-tab analytics dashboard to visualize the car market.
 
-![App Screenshot](screenshots/app_screenshot.png)
+![App Screenshot](screenshots/app_screenshot002.png)
 
 ---
 
@@ -95,6 +95,14 @@ Clone this repository or download the project files as a ZIP.
 Open your command prompt or terminal and navigate to the project directory.
 ```bash
 cd path\to\your\ML project
+
+
+'''
+📁 ML project/
+   ├── 📄 car_gui_app.py         # The main application script
+   ├── 📄 car details v4.csv     # Main data file
+   └── 📄 Car details v3.csv     # Secondary data file
+'''
 
 
 
